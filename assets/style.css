@@ -2,7 +2,7 @@
 body {
   margin: 0;  /* Remove default margins */
   height: 100vh;  /* Full viewport height */
-  background-image: url('images/wooden-floor-background.jpg');
+  background-image: url('../images/wooden-floor-background.jpg');
   background-size: cover;  /* Scales to cover entire area */
   background-position: center;  /* Centers the image */
   background-repeat: no-repeat;
@@ -23,5 +23,5 @@ h3 {
 }
 
 span.money {
-  margin: 0 20px 0 10px;
+  margin: 0 20px;
 }
